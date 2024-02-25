@@ -1,0 +1,4 @@
+\b(delete|erase|drop)\b
+admin|root
+(shell|command|inject)
+/bin/.*sh

@@ -1,0 +1,9 @@
+delete
+erase
+drop
+bypass
+admin
+root
+shell
+command
+injection
