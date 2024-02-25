@@ -41,8 +41,6 @@ print(results)
 Here is an example of the results returned by the Prompt Safety Checker:
 
 ```json
-Safety analysis results:
-
 {
     "prompt": "hello",
     "hate_speech": false,
